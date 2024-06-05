@@ -18,12 +18,12 @@ The sellers can list their unused medicines or medical equipment along with
  price and the seller can also recover some cost from selling the products.
 
 <br>
-<br>
+
 
 ![image](https://github.com/Nandanair622/Medi-OLX/assets/97756235/3a913eb3-17b2-420a-83e4-c570ab3b2e2e)
 
 <br>
-<br>
+
 
 ## <strong> 👩🏻‍💻TECHSTACK👨🏻‍💻 <br> </strong>
 <p>
@@ -33,6 +33,8 @@ The sellers can list their unused medicines or medical equipment along with
 <li>APIs:Razorpay</li>
 </ul>
 </p>
+<br>
+
 
 ## <strong> 💻SCREENSHOTS💻 </strong><br> 
 
@@ -88,9 +90,12 @@ The sellers can list their unused medicines or medical equipment along with
    Payment Page 
 </p>
 <br>
+<br>
+
 
 ## <strong> ⭐DEVELOPERS⭐ </strong><br>  
 1. Aaman Bhowmick<br> 
 2. Nandana Nair<br>
 3. Sakshi Patil<br> 
 4. Prajwal Patil
+<br>
